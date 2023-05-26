@@ -16,7 +16,7 @@
 
 ## Как запустить
 
-1. Склонировать репозиторий `git clone <http ссылка>
+1. Склонировать репозиторий `git clone https://github.com/palyaros02/flask_news_2.git`
 2. Создать и активировать виртуальное окружение
 ```bash
 python -m venv ./.venv
